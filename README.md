@@ -1,5 +1,7 @@
 # MusicAnalyzer
-Music Analyzer using tensorflow
+Music Analyzer using machine learning
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)  
 
 ## Table of contents
 
@@ -46,7 +48,7 @@ Within the download you'll find the following directories and files, logically g
 
 ## Copyright and license
 
-Code and documentation copyright
+Licensed under the Apache License, Version 2.0
 
 ---
 ## Collaborative Filtering
@@ -61,4 +63,3 @@ scipy.spatial.distance.cosine(u, v)
 sangwoo Wi
 minjae Lee
 jaehoo Lee
-
